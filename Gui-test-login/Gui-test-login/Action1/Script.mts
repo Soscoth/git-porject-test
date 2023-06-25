@@ -5,6 +5,11 @@ Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("sign_in_btnu
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("UserMenu_2").Click 
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("Sign out").Click
 
+
+
+
+echo "hello word" 
+
 wait 5
 
 
